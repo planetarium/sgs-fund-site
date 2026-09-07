@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.sgs.fund/sitemap.xml
+Sitemap: https://sgsfund.planetariumlabs.com/sitemap.xml
